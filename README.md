@@ -2,6 +2,8 @@
 
 A Python script for monitoring multiple website domains in real-time, displaying whether they are accessible (“up”) or unreachable (“down”). It also logs these status checks to a file (`website_monitor.log`). This tool runs until the user presses **ENTER**, allowing continuous website monitoring.
 
+![clatchecker](https://github.com/user-attachments/assets/09f3dfc8-8254-45d1-bc33-235b6395dcda)
+
 ## Features
 - **Multi-Domain Monitoring**: Checks multiple domains (entered by the user) in one script run.
 - **Real-Time Checking**: Monitors each domain’s status every 1 second.
