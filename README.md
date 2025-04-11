@@ -108,10 +108,12 @@ pip install requests pystyle
   - Make sure you installed the library with `pip install pystyle`.  
   - If installed globally, confirm your Python interpreter in the environment can see it.
 
-**Author**:  
-🛡️ By Joshua M Clatney - Ethical Pentesting Enthusiast 🛡️  
-**Version**: 1.00  
+**Author**
 
-**Disclaimer**: This script is provided as-is for basic website monitoring. Please adapt configurations (e.g. interval, logging verbosity) to your own requirements.
+Joshua M Clatney (Clats97)
 
-Copyright 2025 Joshua M Clatney (Clats97)
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97) 
+
+**Disclaimer**: This script is provided as-is for basic website monitoring. Please adapt configurations (e.g. interval, logging verbosity) to your own requirements
